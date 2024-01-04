@@ -1,5 +1,5 @@
 # Panda-Challenge
-This assignment analyzes the strategic decisions concerning future budgets and priorities. 
+This assignment analyzes the strategic decisions concerning future budgets and priorities that board of districts needs to decide. 
 
 ****Created the following metrics including:
 
