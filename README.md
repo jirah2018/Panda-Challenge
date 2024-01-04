@@ -2,9 +2,13 @@
 This assignment analyzes the strategic decisions concerning future budgets and priorities. 
 
 Created the following metrics including:
+
 ----------District's key metrics, including:--------------------------
+
 *Total Schools
+
 *Total Students
+
 *Total Budget
 *Average Math Score
 *Average Reading Score
